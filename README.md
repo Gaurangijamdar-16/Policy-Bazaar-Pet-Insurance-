@@ -84,10 +84,8 @@ This feature aims to boost engagement, diversify product offerings, and enhance 
   ![Banner](5_Wireframes/PolicyBazaar_Banner.png)
 
 - Insurance selection & comparison:  
-  ![WF1](5_Wireframes/Wireframe_1.png)  
   ![WF2](5_Wireframes/Wireframe_2.png)  
-  ![WF3](5_Wireframes/Wireframe_3.png)  
-  ![WF4](5_Wireframes/Wireframe_4.png)  
+  ![WF3](5_Wireframes/Wireframe_3.png)   
   ![WF5](5_Wireframes/Wireframe_5.png)  
   ![WF6](5_Wireframes/Wireframe_6.png)
 
