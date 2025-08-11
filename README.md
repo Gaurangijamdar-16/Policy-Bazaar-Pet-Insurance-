@@ -1,3 +1,5 @@
+[![Policy-Bazaar-Pet-Insurance Banner](5_Wireframes/Banner.png)](5_Wireframes/Banner.png)
+
 # 🐾 Policy Bazaar – Pet Insurance Module Integration
 
 ## 📌 Project Overview
